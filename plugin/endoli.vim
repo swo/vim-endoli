@@ -28,8 +28,8 @@ nnoremap β b
 nnoremap ν n
 nnoremap μ m
 
-nnoremap ; Q
-" W presents a problem
+" Q/; presents a problem
+" W/Σ presents a problem
 nnoremap Ε E
 nnoremap Ρ R
 nnoremap Τ T
@@ -47,7 +47,7 @@ nnoremap Η H
 nnoremap Ξ J
 nnoremap Κ K
 nnoremap Λ L
-" ; presents a problem
+" ;/accent presents a problem
 nnoremap Ζ Z
 nnoremap Χ X
 nnoremap Ψ C
